@@ -7,3 +7,5 @@ To read in to python use the command:
 
 `df = pd.read_csv('sensitivity_results.csv',header=[0, 1], skipinitialspace=True)`
 
+To generate sensitiivty indices, you can use the included python notebook. You will need to install the SALib package. More info @ [https://salib.readthedocs.io/en/latest/](https://salib.readthedocs.io/en/latest/). 
+
