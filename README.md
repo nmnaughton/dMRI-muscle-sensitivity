@@ -1,5 +1,5 @@
 # dMRI-muscle-sensitivity
-Repository of simulation data for paper ["Global Sensitivity Analysis of Skeletal Muscle dMRI Metrics: Effects of Microstructural and Pulse Parameters"](https://doi.org/10.1002/mrm.28014) in Magnetic Resonance in Medicine.
+Repository of simulation data for paper "Global Sensitivity Analysis of Skeletal Muscle dMRI Metrics: Effects of Microstructural and Pulse Parameters" in Magnetic Resonance in Medicine. Paper may be found [here](https://doi.org/10.1002/mrm.28014).
 
 Results for the PGSE sequence are in `sensitivity_results-PGSE.csv` and the generalized diffusion-weighted sequence (or STEAM) results are in `sensitivity_results-genDW.csv`.
 
