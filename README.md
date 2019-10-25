@@ -3,7 +3,7 @@ Repository of simulation data for paper "Global Sensitivity Analysis of Skeletal
 
 Results for the PGSE sequence are in `sensitivity_results-PGSE.csv` and the generalized diffusion-weighted sequence (or STEAM) results are in `sensitivity_results-genDW.csv`.
 
-To read into a multiindex dataframe in python use the command: 
+To read into a multiindex pandas dataframe in python use the command: 
 
 `df = pd.read_csv('sensitivity_results-XXXX.csv',header=[0, 1], skipinitialspace=True)`
 
