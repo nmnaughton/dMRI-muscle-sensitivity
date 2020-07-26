@@ -12,7 +12,22 @@ To generate sensitivity indices, you can use the included python notebook. You w
 ## Citation
 If this data leads to a publication, please cite:
 
-`Naughton, NM, Georgiadis, JG. Global sensitivity analysis of skeletal muscle dMRI metrics: Effects of microstructural and pulse parameters. Magn Reson Med. 2019; 00: 1– 13. https://doi.org/10.1002/mrm.28014`
+Naughton, NM, Georgiadis, JG. Global sensitivity analysis of skeletal muscle dMRI metrics: Effects of microstructural and pulse parameters. Magn Reson Med. 2019; 00: 1– 13. https://doi.org/10.1002/mrm.28014
+
+```
+@article{Naughton2020MRM,
+author = {Naughton, Noel M. and Georgiadis, John G.},
+title = {Global sensitivity analysis of skeletal muscle dMRI metrics: Effects of microstructural and pulse parameters},
+journal = {Magnetic Resonance in Medicine},
+volume = {83},
+number = {4},
+pages = {1458-1470},
+doi = {10.1002/mrm.28014},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.28014},
+year = {2020}
+}
+
+```
 
 If you have any questions about the data, please contact Noel ([nnaught2@illinois.edu](nnaught2@illinois.edu))
 
